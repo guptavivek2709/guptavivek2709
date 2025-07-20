@@ -19,7 +19,3 @@
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
 
 ---
-
-### 🔥 Top Projects  
-<!-- Add your top project links here -->
-
